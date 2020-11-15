@@ -1,0 +1,36 @@
+<!-- Grid: Row 1 -->
+<div class="row">
+  <!-- Grid: Row 1, Col 1 showing Burgers To Eat --> 
+    <div class="col-md-6">
+      <div class="card cardAdd">
+        <h4 class="card-header text-center">Burgers To Eat</h4>
+        <div class="card-body">
+          {{#each burgers}}
+            {{#unless this.devoured}}         
+              <div class="input-group my-2">
+                <li class="form-control">{{id}}. {{burger_name}}</li> <button class="btn btn-primary devour-button ml-3" data-id="{{id}}" type="submit">Devour It!</button>  
+              </div>
+            
+            {{/unless}}
+          {{/each}}
+
+        </div>
+      </div>
+    </div>
+<!-- Grid: Row 1, Col 2 showing Burgers Eaten -->
+    <div class="col-md-6">
+      <div class="card cardEat">
+        <h4 class="card-header text-center">Burgers Eaten</h4>
+        <div class="card-body">
+          {{#each burgers}}
+            {{#if this.devoured}}
+              <div class="input-group">
+                <li class="form-control">{{this.id}}. {{this.burger_name}}</li>
+              </div>
+            {{/if}}
+          {{/each}}
+
+        </div>
+      </div>
+    </div> 
+</div>

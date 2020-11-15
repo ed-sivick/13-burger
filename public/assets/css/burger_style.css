@@ -1,0 +1,55 @@
+.titleBanner {
+	background-color:lightgrey;
+	padding-top: .25rem;
+    padding-bottom: 0.50rem;
+    margin-bottom: 2 .0rem;
+	text-align: center;
+	opacity: 0.8;
+}
+
+body {
+	background-image: url("../images/burger.png");
+	background-position: center;
+ 	background-repeat: no-repeat;	
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.cardName{
+	margin-bottom: 2rem;
+	margin-left: -0.5rem;
+	margin-right: -0.5rem;
+}
+
+.cardAdd{
+	margin-left: -4.0rem;
+	margin-right: 0.5rem;
+}
+
+.cardEat{
+	margin-left: 0.5rem;
+	margin-right: -4.0rem;
+}
+
+#submit-button {
+	display: block;
+
+}
+
+.card-header {
+	background-color:lightgrey;
+}
+
+.card {
+	border-radius: 0 0 1.0rem 1.0rem;
+	opacity: 0.8;
+}
+
+.input-group, .form-control, .display-4 {
+	font-weight: bold;
+}
+
+/* Add Burger placeholder changes to transparent when area is in focus */
+[placeholder]:focus::-webkit-input-placeholder {
+	color: transparent;
+  }
