@@ -16,8 +16,8 @@ ___
 ___
 ## Installation
 (1) Type **npm i** (install) to install all required dependencies for the app   
-(2) Invoke the app by going to the server.js file, open in integrated terminal, and type: **node server.js** 
-(3) The Server is now listening on: **http://localhost:8080**
+(2) Invoke the app by going to the server.js file, open in integrated terminal, and type: **node server.js**    
+(3) The Server is now listening on: **http://localhost:8080**   
 (4) Open a webpage and type into the url: **http://localhost:8080**   
 (5) The app is now running and the user can 'Add' Burger names to add them to the 'Burgers To Eat' column, or click on the 'Devour It!' button to move a burger to the 'Burgers Eaten' column.
    
