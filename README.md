@@ -48,23 +48,23 @@ ___
 Heroku link: (https://arcane-inlet-67971.herokuapp.com/)   
 
 **Application Image Examples:** 
-<p>Image of burger in the 'Enter New Burger' text field</p>
+<p><strong>Image of burger in the 'Enter New Burger' text field</strong></p>
 <p align="left">
   <img src="public/assets/images/add1.png" width="800" title="image of burger in the 'Enter New Burger' text field" alt="image of burger in the 'Enter New Burger' text field">
   </p><br>
 
-<p>Image of burger added to the 'Burgers To Eat' column</p>
+<p><strong>Image of burger added to the 'Burgers To Eat' column</strong></p>
   <p align="left">
   <img src="public/assets/images/add2.png" width="800" title="image of burger added to the 'Burgers To Eat' column" alt="image of burger added to the 'Burgers To Eat' column">
   </p>
   </p><br>
   
-<p>Image of burger devoured and added to the 'Burgers Eaten' column</p>
+<p><strong>Image of burger devoured and added to the 'Burgers Eaten' column</strong></p>
   <p align="left">
   <img src="public/assets/images/eat1.png" width="800" title="image of burger devoured and added to the 'Burgers Eaten' column" alt="image of burger devoured and added to the 'Burgers Eaten' column">
   </p><br>
 
-<p>Image of all burgers devoured and added to the 'Burgers Eaten' column</p>
+<p><strong>Image of all burgers devoured and added to the 'Burgers Eaten' column</strong></p>
   <p align="left">
   <img src="public/assets/images/eatall.png" width="800" title="image of all burgers devoured and added to the 'Burgers Eaten' column" alt="image of all burgers devoured and added to the 'Burgers Eaten' column">
   </p><br>
