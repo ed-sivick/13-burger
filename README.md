@@ -1,4 +1,4 @@
-# 13-Node Express Handlebars-Burger Logger
+# 13-Node Express Handlebars-Eat-Da-Burger!
 ___
 ## Objective
 Create an application that generates a burger logger app with MySQL, Node, Express, Handlebars and a homemade ORM. It follows the MVC design pattern; using Node and MySQL to query and route data in the app, and Handlebars to generate the HTML.
@@ -12,7 +12,7 @@ ___
 * [Questions](#questions)
 * [Application_Links_and_Images](#application_links_and_images)
 ## Description:
- Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.  Whenever a user submits a burger's name, your app will display the burger on the left side of the page, waiting to be devoured. Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page. The app stores every burger in a database (burgers_db), whether devoured or not.
+ Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they would like to eat.  Whenever a user submits a burger's name, the app will display the burger on the left side of the page, waiting to be devoured. Each burger in the waiting area also has a `Devour it!` button. When the user clicks it, the burger will move to the right side of the page. The app stores every burger in a database (burgers_db), whether devoured or not.
 ___
 ## Installation
 (1) Type **npm i** (install) to install all required dependencies for the app   
