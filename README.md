@@ -5,7 +5,6 @@ Create an application that generates a burger logger app with MySQL, Node, Expre
 ___
 ## Table of Contents
 * [Description](#description)
-* [Layout](#layout)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -54,12 +53,12 @@ Heroku link: (https://arcane-inlet-67971.herokuapp.com/)
   </p>
 
   <p align="left">
-  <img src="public/assets/images/add2.png" width="800" title="image of burger being added" alt="image of burger being added">
+  <img src="public/assets/images/add2.png" width="800" title="image of burger added to Burgers To Eat column" alt="image of burger added to Burgers To Eat column">
   </p>
   
   <p align="left">
-  <img src="public/assets/images/eat1.png" width="800" title="image of burger added to Eat column" alt="image of burger added to Eat column">
+  <img src="public/assets/images/eat1.png" width="800" title="image of burger devoured and added to Burgers Eaten column" alt="image of burger devoured and added to Burgers Eaten column">
   </p>
   <p align="left">
-  <img src="public/assets/images/eatall.png" width="800" title="image of all burgers in Eaten column" alt="image of all burgers in Eaten column">
+  <img src="public/assets/images/eatall.png" width="800" title="image of all burgers devoured and added to Burgers Eaten column" alt="image of all burgers devoured and added to Burgers Eaten column">
   </p>
