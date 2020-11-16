@@ -47,18 +47,24 @@ ___
 **Links:**  
 Heroku link: (https://arcane-inlet-67971.herokuapp.com/)   
 
-**Application Image Examples:** Hover the mouse over each image for a brief description.
+**Application Image Examples:** 
+<p>Image of burger in the 'Enter New Burger' text field</p>
 <p align="left">
-  <img src="public/assets/images/add1.png" width="800" title="image of burger being added" alt="image of burger being added">
-  </p>
+  <img src="public/assets/images/add1.png" width="800" title="image of burger in the 'Enter New Burger' text field" alt="image of burger in the 'Enter New Burger' text field">
+  </p><br>
 
+<p>Image of burger added to the 'Burgers To Eat' column</p>
   <p align="left">
-  <img src="public/assets/images/add2.png" width="800" title="image of burger added to Burgers To Eat column" alt="image of burger added to Burgers To Eat column">
+  <img src="public/assets/images/add2.png" width="800" title="image of burger added to the 'Burgers To Eat' column" alt="image of burger added to the 'Burgers To Eat' column">
   </p>
+  </p><br>
   
+<p>Image of burger devoured and added to the 'Burgers Eaten' column</p>
   <p align="left">
-  <img src="public/assets/images/eat1.png" width="800" title="image of burger devoured and added to Burgers Eaten column" alt="image of burger devoured and added to Burgers Eaten column">
-  </p>
+  <img src="public/assets/images/eat1.png" width="800" title="image of burger devoured and added to the 'Burgers Eaten' column" alt="image of burger devoured and added to the 'Burgers Eaten' column">
+  </p><br>
+
+<p>Image of all burgers devoured and added to the 'Burgers Eaten' column</p>
   <p align="left">
-  <img src="public/assets/images/eatall.png" width="800" title="image of all burgers devoured and added to Burgers Eaten column" alt="image of all burgers devoured and added to Burgers Eaten column">
-  </p>
+  <img src="public/assets/images/eatall.png" width="800" title="image of all burgers devoured and added to the 'Burgers Eaten' column" alt="image of all burgers devoured and added to the 'Burgers Eaten' column">
+  </p><br>
